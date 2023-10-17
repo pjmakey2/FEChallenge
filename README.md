@@ -29,11 +29,11 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
 
  * Crear una tabla para los datos `Lista de productos`, utilizando la libreria paramquery.
 
-   * Estos datos debe ser leidos desde el BE, si no posees los conocimientos para crear un server, obta por la siguiente de las 2 opciones:
+   * Estos datos deben ser leidos desde el BE, si no posees los conocimientos para crear un server, obta por la siguiente de las 2 opciones:
       * simula la lectura de los datos mediante una funcion local, dentro de la definicion del atributo `dataModel`
       * O guardar el JSON en una url publica o privada y leerla directamente.
 
-   * La tabla debe tener los siguientes botones, que disparen las acciones descriptas.
+   * La tabla debe tener botones en su toolbar, que disparen las acciones descriptas.
 
       * Agregar: Abrir un modal con un formulario para la carga de los productos (segun los atributos mostrados en `Lista de productos`)
       * Eliminar: Que llame al endpoint del BE para eliminar el producto (Esto tiene que ser con un modal de confirmacion )
@@ -41,5 +41,9 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
       * Aprobar: Que llame al endpoint del BE para aprobar el producto (Esto tiene que ser con un modal de confirmacion )
  
  * Del dato `Lista de ventas`, generar una tabla agrupada por `SALES_MAN`, `CLIENTE_CATEGORY` y `PRODUCT_BRAND` y generar una columna formulada que realize la siguiente operacion aritmetica `PRODUCT_PRICE`*`PRODUCT_QUANTITY`
+   * Estos datos deben ser leidos desde el BE, si no posees los conocimientos para crear un server, obta por la siguiente de las 2 opciones:
+     * simula la lectura de los datos mediante una funcion local, dentro de la definicion del atributo `dataModel`
+     * O guardar el JSON en una url publica o privada y leerla directamente.
 
- OBS: Puntos extras si intregas tu proyecto con Sentry
+
+ **OBS**: Puntos extras si integras tu proyecto con Sentry
