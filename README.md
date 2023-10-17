@@ -25,7 +25,7 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
 
  * Crear una maqueta con boostratp 5
 
- ## Las siguientes tareas de creacion de tablas deben recidir en un archivo html diferente.
+ #### Las siguientes tareas de creacion de tablas deben recidir en un archivo html diferente.
 
  * Crear una tabla para los datos `Lista de productos`, utilizando la libreria paramquery.
 
