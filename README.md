@@ -31,7 +31,7 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
 
    * Estos datos debe ser leidos desde el BE, si no posees los conocimientos para crear un server, obta por la siguiente de las 2 opciones:
       * simula la lectura de los datos mediante una funcion local, dentro de la definicion del atributo `dataModel`
-      * O guardar el JSON en una url publica y leerla directamente.
+      * O guardar el JSON en una url publica o privada y leerla directamente.
 
    * La tabla debe tener los siguientes botones, que disparen las acciones descriptas.
 
