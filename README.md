@@ -42,4 +42,4 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
  
  * Del dato `Lista de ventas`, generar una tabla agrupada por `SALES_MAN`, `CLIENTE_CATEGORY` y `PRODUCT_BRAND` y generar una columna formulada que realize la siguiente operacion aritmetica `PRODUCT_PRICE`*`PRODUCT_QUANTITY`
 
- OBS: Puntos extras si entregar tu proyecto son Sentry
+ OBS: Puntos extras si intregas tu proyecto con Sentry
