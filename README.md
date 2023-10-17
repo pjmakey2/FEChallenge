@@ -40,6 +40,6 @@ sales = [{"SALES_MAN":"SalesPerson_4","CLIENT":1717,"CLIENT_NAME":"Cira Mira","C
       * Verificar: Que llame al endpoint del BE para verificar el producto (Esto tiene que ser con un modal de confirmacion )
       * Aprobar: Que llame al endpoint del BE para aprobar el producto (Esto tiene que ser con un modal de confirmacion )
  
- * Del dato `Lista de ventas`, generar una tabla agrupada por `SALES_MAN`, `CLIENTE_CATEGORY` y `PRODUCT_BRAND` y generate una columna formulado que realize la siguiente operacion aritmetica `PRODUCT_PRICE`*`PRODUCT_QUANTITY`
+ * Del dato `Lista de ventas`, generar una tabla agrupada por `SALES_MAN`, `CLIENTE_CATEGORY` y `PRODUCT_BRAND` y generar una columna formulada que realize la siguiente operacion aritmetica `PRODUCT_PRICE`*`PRODUCT_QUANTITY`
 
  OBS: Puntos extras si entregar tu proyecto son Sentry
